@@ -1,5 +1,8 @@
-# HTMLGsheet
-This repository will guide you on how to attach or use google sheet as your database for a simple HTML form
+# Bus Pass Registration System
+
+A bus pass registration system made for college students where students can register the bus pass easily from anywhere. The data of the students get saved in the Google sheet dynamically.
+
+This repository will also guide you on how to attach or use google sheet as your database for a simple HTML form
 This can also Guide you on how to generate PDF of latest entry made on that same google sheet it is done using Js library JSPDF using NodeJs 
 
 Steps To add Google shhet to your HTML Form:
